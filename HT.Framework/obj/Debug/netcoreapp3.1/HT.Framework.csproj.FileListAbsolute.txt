@@ -1,0 +1,9 @@
+H:\netcoreTest\HTORMSystem\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.deps.json
+H:\netcoreTest\HTORMSystem\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.dll
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csprojAssemblyReference.cache
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfoInputs.cache
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfo.cs
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csproj.CoreCompileInputs.cache
+H:\netcoreTest\HTORMSystem\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
+H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb

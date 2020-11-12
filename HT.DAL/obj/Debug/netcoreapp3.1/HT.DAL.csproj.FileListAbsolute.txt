@@ -1,0 +1,5 @@
+H:\netcoreTest\HTORMSystem\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.deps.json
+H:\netcoreTest\HTORMSystem\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.dll
+H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csprojAssemblyReference.cache
+H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfoInputs.cache
+H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfo.cs
