@@ -17,6 +17,7 @@ namespace HT.ORM
             //var connectionString=configuration["connectionString"]; 
             //Console.WriteLine(connectionString);
 
+
             Console.WriteLine(ConfigrationManager.ConnectionString);
             Console.WriteLine(ConfigrationManager.ConnectionString);
             
