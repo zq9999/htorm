@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HT.DAL\HT.DAL.csproj" />
+    <ProjectReference Include="..\HT.IService\HT.IService.csproj" />
+    <ProjectReference Include="..\HT.Model\HT.Model.csproj" />
+  </ItemGroup>
+
+</Project>

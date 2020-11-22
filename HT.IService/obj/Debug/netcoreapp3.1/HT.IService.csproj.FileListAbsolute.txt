@@ -1,0 +1,14 @@
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.IService.deps.json
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.IService.dll
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.IService.pdb
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.Framework.dll
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.Model.dll
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.Model.pdb
+H:\dotnetcore\HTOrm.Framework\HT.IService\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csprojAssemblyReference.cache
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csproj.CoreCompileInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.AssemblyInfoInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.AssemblyInfo.cs
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csproj.CopyComplete
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.dll
+H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.pdb

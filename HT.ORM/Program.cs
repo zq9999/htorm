@@ -32,7 +32,7 @@ namespace HT.ORM
             //company1.CompanyName += DateTime.Now.Ticks;
             //var result=sqlHelper.Update(company1);
 
-            var result2= sqlHelper.Update<Company>("{Name:\"asd\"}", 5);
+           // var result2= sqlHelper.Update<Company>("{Name:\"asd\"}", 5);
             //company1.CompanyName += DateTime.Now; 
             //sqlHelper.Insert(company1);
             //var company2 = sqlHelper.Find<Company>(2);
