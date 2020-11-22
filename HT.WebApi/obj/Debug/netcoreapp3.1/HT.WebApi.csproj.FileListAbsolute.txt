@@ -109,11 +109,12 @@ H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\zh-Hans\Microsof
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\HT.IService.pdb
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\HT.Service.pdb
-H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CoreCompileInputs.cache
-H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CopyComplete
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\HT.WebApi.StaticWebAssets.Manifest.cache
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\HT.WebApi.StaticWebAssets.xml
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.dll
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.pdb
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.genruntimeconfig.cache
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Consul.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CoreCompileInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache

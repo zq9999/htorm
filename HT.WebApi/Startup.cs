@@ -12,6 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using HT.WebApi.Utility;
 
 namespace HT.WebApi
 {
@@ -49,6 +50,9 @@ namespace HT.WebApi
             {
                 endpoints.MapControllers();
             });
+
+            //×¢²áConsul
+            this.Configuration.ConsulRegist();
         }
     }
 }

@@ -15,4 +15,3 @@ H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfo.cs
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb
-H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csprojAssemblyReference.cache

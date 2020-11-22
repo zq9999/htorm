@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Consul/1.6.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -2102,6 +2114,19 @@
     }
   },
   "libraries": {
+    "Consul/1.6.1.1": {
+      "sha512": "AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
+      "type": "package",
+      "path": "consul/1.6.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.6.1.1.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/netstandard2.0/Consul.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
       "sha512": "Y4rs5aMEXY8G7wJo5S3EEt6ltqyOTr/qOeZzfn+hw/fuQj5GppGckMY5psGLETo1U9hcT5MmAhaT5xtusM1b5g==",
       "type": "package",
@@ -6792,6 +6817,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Consul >= 1.6.1.1",
       "HT.DAL >= 1.0.0",
       "HT.IService >= 1.0.0",
       "HT.Service >= 1.0.0",
@@ -6850,6 +6876,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Consul": {
+            "target": "Package",
+            "version": "[1.6.1.1, )"
+          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[3.1.4, )"

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8VNO49dznV5OrM+LwjK6qJ6WI/O4tVTdDeTsXW5+25JNEsQewQc8wSFFd38oRaX7Zny8u0/2Y3fXICrggu0odw==",
+  "dgSpecHash": "V29b0RyLVTAhiiJy4EUQQHs5cFKmuO9tmqrTuiBFGbY71ED4Kb8Gg6i76SVa1gOzGytrjSaDxgSDczwHJIIxgA==",
   "success": true,
   "projectFilePath": "H:\\dotnetcore\\HTOrm.Framework\\HT.WebApi\\HT.WebApi.csproj",
   "expectedPackageFiles": [
+    "E:\\Nuget\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "E:\\Nuget\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
