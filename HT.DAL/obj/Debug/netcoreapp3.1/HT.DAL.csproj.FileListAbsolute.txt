@@ -3,3 +3,17 @@ H:\netcoreTest\HTORMSystem\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.dll
 H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csprojAssemblyReference.cache
 H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfoInputs.cache
 H:\netcoreTest\HTORMSystem\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfo.cs
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.deps.json
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.dll
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csprojAssemblyReference.cache
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfoInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfo.cs
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.DAL.pdb
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Framework.dll
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csproj.CoreCompileInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csproj.CopyComplete
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.dll
+H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.pdb
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Model.dll
+H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Model.pdb

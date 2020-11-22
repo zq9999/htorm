@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\HT.Framework.csproj": {}
+    "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj": {}
   },
   "projects": {
-    "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\HT.Framework.csproj": {
+    "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\HT.Framework.csproj",
+        "projectUniqueName": "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj",
         "projectName": "HT.Framework",
-        "projectPath": "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\HT.Framework.csproj",
+        "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj",
         "packagesPath": "E:\\Nuget\\.nuget\\packages",
-        "outputPath": "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\obj\\",
+        "outputPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

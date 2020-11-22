@@ -7,3 +7,11 @@ H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csp
 H:\netcoreTest\HTORMSystem\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.pdb
 H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
 H:\netcoreTest\HTORMSystem\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb
+H:\dotnetcore\HTOrm.Framework\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.deps.json
+H:\dotnetcore\HTOrm.Framework\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.dll
+H:\dotnetcore\HTOrm.Framework\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csproj.CoreCompileInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfoInputs.cache
+H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfo.cs
+H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
+H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb

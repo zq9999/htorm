@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1GRYyl2iJEfRUFPQdFUUsc/1UOk5yx7n9sXSp9xKLE8zjHYRoFAWdPjb0FdSJMiIqdn0j2PmDkVYvzP2zSlsew==",
+  "dgSpecHash": "ZbprXT3IybdIdHNqZ459YCmr/XDT2vgPfdyG+HTAS7+q5ROHYQc8W38hunY9uOMAgc68WmYEvGlRj05hOggslg==",
   "success": true,
-  "projectFilePath": "H:\\netcoreTest\\HTORMSystem\\HT.Framework\\HT.Framework.csproj",
+  "projectFilePath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj",
   "expectedPackageFiles": [
     "E:\\Nuget\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "E:\\Nuget\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

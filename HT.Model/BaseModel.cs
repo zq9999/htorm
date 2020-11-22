@@ -1,5 +1,7 @@
 ﻿
 
+using HT.Framework.Orm;
+
 namespace HT.Model
 {
     /// <summary>
@@ -7,7 +9,7 @@ namespace HT.Model
     /// </summary>
     public class BaseModel
     {
-        
+        [HTKey]
         public int Id { set; get; }
     }
 }

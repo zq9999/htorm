@@ -1,11 +1,12 @@
+using HT.Framework.Orm;
 using System; 
 
 namespace HT.Model
 {
-    
-    public class CompanyModel : BaseModel
+    public class Company  : BaseModel 
     {
         
+        [HTColumn("Name")]
         public string CompanyName { get; set; }
 
         public DateTime CreateTime { get; set; }
