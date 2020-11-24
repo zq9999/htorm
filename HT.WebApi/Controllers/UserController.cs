@@ -6,6 +6,7 @@ using HT.IService;
 using HT.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 
 namespace HT.WebApi.Controllers
 {
@@ -14,13 +15,16 @@ namespace HT.WebApi.Controllers
     public class UserController : ControllerBase
     {
         IUserService _iUserService;
-        public UserController(IUserService iUserService)
+        ILogger<UserController> _logger;
+        public UserController(IUserService iUserService, ILogger<UserController> logger)
         {
             _iUserService = iUserService;
+            _logger = logger;
         }
         [Route("GetUsers")]
         [HttpGet]
         public List<User> GetUsers() {
+            _logger.LogInformation("GetUsers");
             var list=  _iUserService.GetUsers();
             return list;
         }

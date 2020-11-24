@@ -116,5 +116,17 @@ H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.dll
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.pdb
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.genruntimeconfig.cache
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Consul.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\log4net.Config
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\log4net.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+H:\dotnetcore\HTOrm.Framework\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CoreCompileInputs.cache
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache
