@@ -10,3 +10,15 @@ H:\dotnetcore\HTOrm.Framework\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.pdb
 H:\dotnetcore\HTOrm.Framework\HT.Model\bin\Debug\netcoreapp3.1\HT.Framework.dll
 H:\dotnetcore\HTOrm.Framework\HT.Model\bin\Debug\netcoreapp3.1\HT.Framework.pdb
 H:\dotnetcore\HTOrm.Framework\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.csproj.CopyComplete
+D:\个人\code\htorm\HT.Model\bin\Debug\netcoreapp3.1\HT.Model.deps.json
+D:\个人\code\htorm\HT.Model\bin\Debug\netcoreapp3.1\HT.Model.dll
+D:\个人\code\htorm\HT.Model\bin\Debug\netcoreapp3.1\HT.Model.pdb
+D:\个人\code\htorm\HT.Model\bin\Debug\netcoreapp3.1\HT.Framework.dll
+D:\个人\code\htorm\HT.Model\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.csprojAssemblyReference.cache
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.AssemblyInfoInputs.cache
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.AssemblyInfo.cs
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.csproj.CopyComplete
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.dll
+D:\个人\code\htorm\HT.Model\obj\Debug\netcoreapp3.1\HT.Model.pdb

@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
-using HT.IService;
-using HT.Model;
+using System.Threading.Tasks; 
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -13,15 +11,21 @@ namespace HT.WebApi.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        IUserService _iUserService;
-        public UserController(IUserService iUserService)
-        {
-            _iUserService = iUserService;
-        }
-        [Route("GetUsers")]
-        [HttpGet]
-        public List<User> GetUsers() {
-            var list=  _iUserService.GetUsers();
+         
+     
+        //[Route("GetUsers")]
+        //[HttpGet]
+        //public List<User> GetUsers() {
+        //    var list=  _iUserService.GetUsers();
+        //    return list;
+        //}
+
+        public List<string> GetNames() {
+            List<string> list = new List<string>();
+            for (int i = 0; i < 10; i++)
+            {
+                list.Add("james"+i);
+            }
             return list;
         }
     }

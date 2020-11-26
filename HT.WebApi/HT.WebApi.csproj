@@ -9,11 +9,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\HT.DAL\HT.DAL.csproj" />
-    <ProjectReference Include="..\HT.IService\HT.IService.csproj" />
-    <ProjectReference Include="..\HT.Service\HT.Service.csproj" />
-  </ItemGroup>
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
 
 
 </Project>

@@ -346,25 +346,24 @@
     ]
   },
   "packageFolders": {
-    "E:\\Nuget\\.nuget\\packages": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\dotnetcore\\HTOrm.Framework\\HT.IService\\HT.IService.csproj",
+      "projectUniqueName": "D:\\个人\\code\\htorm\\HT.IService\\HT.IService.csproj",
       "projectName": "HT.IService",
-      "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.IService\\HT.IService.csproj",
-      "packagesPath": "E:\\Nuget\\.nuget\\packages",
-      "outputPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.IService\\obj\\",
+      "projectPath": "D:\\个人\\code\\htorm\\HT.IService\\HT.IService.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\个人\\code\\htorm\\HT.IService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -376,8 +375,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "H:\\dotnetcore\\HTOrm.Framework\\HT.Model\\HT.Model.csproj": {
-              "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Model\\HT.Model.csproj"
+            "D:\\个人\\code\\htorm\\HT.Model\\HT.Model.csproj": {
+              "projectPath": "D:\\个人\\code\\htorm\\HT.Model\\HT.Model.csproj"
             }
           }
         }
@@ -405,7 +404,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

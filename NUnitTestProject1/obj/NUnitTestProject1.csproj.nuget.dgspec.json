@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\dotnetcore\\HTOrm.Framework\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
+    "D:\\个人\\code\\htorm\\NUnitTestProject1\\NUnitTestProject1.csproj": {}
   },
   "projects": {
-    "H:\\dotnetcore\\HTOrm.Framework\\NUnitTestProject1\\NUnitTestProject1.csproj": {
+    "D:\\个人\\code\\htorm\\NUnitTestProject1\\NUnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\dotnetcore\\HTOrm.Framework\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "projectUniqueName": "D:\\个人\\code\\htorm\\NUnitTestProject1\\NUnitTestProject1.csproj",
         "projectName": "NUnitTestProject1",
-        "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\NUnitTestProject1\\NUnitTestProject1.csproj",
-        "packagesPath": "E:\\Nuget\\.nuget\\packages",
-        "outputPath": "H:\\dotnetcore\\HTOrm.Framework\\NUnitTestProject1\\obj\\",
+        "projectPath": "D:\\个人\\code\\htorm\\NUnitTestProject1\\NUnitTestProject1.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\个人\\code\\htorm\\NUnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

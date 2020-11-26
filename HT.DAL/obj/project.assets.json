@@ -787,25 +787,24 @@
     ]
   },
   "packageFolders": {
-    "E:\\Nuget\\.nuget\\packages": {},
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\dotnetcore\\HTOrm.Framework\\HT.DAL\\HT.DAL.csproj",
+      "projectUniqueName": "D:\\个人\\code\\htorm\\HT.DAL\\HT.DAL.csproj",
       "projectName": "HT.DAL",
-      "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.DAL\\HT.DAL.csproj",
-      "packagesPath": "E:\\Nuget\\.nuget\\packages",
-      "outputPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.DAL\\obj\\",
+      "projectPath": "D:\\个人\\code\\htorm\\HT.DAL\\HT.DAL.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\个人\\code\\htorm\\HT.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -817,11 +816,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj": {
-              "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Framework\\HT.Framework.csproj"
+            "D:\\个人\\code\\htorm\\HT.Framework\\HT.Framework.csproj": {
+              "projectPath": "D:\\个人\\code\\htorm\\HT.Framework\\HT.Framework.csproj"
             },
-            "H:\\dotnetcore\\HTOrm.Framework\\HT.Model\\HT.Model.csproj": {
-              "projectPath": "H:\\dotnetcore\\HTOrm.Framework\\HT.Model\\HT.Model.csproj"
+            "D:\\个人\\code\\htorm\\HT.Model\\HT.Model.csproj": {
+              "projectPath": "D:\\个人\\code\\htorm\\HT.Model\\HT.Model.csproj"
             }
           }
         }
@@ -855,7 +854,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

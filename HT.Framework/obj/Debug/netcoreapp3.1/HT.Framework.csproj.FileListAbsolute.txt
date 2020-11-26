@@ -15,3 +15,12 @@ H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfo.cs
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
 H:\dotnetcore\HTOrm.Framework\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb
+D:\个人\code\htorm\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.deps.json
+D:\个人\code\htorm\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.dll
+D:\个人\code\htorm\HT.Framework\bin\Debug\netcoreapp3.1\HT.Framework.pdb
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csprojAssemblyReference.cache
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfoInputs.cache
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.AssemblyInfo.cs
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.dll
+D:\个人\code\htorm\HT.Framework\obj\Debug\netcoreapp3.1\HT.Framework.pdb

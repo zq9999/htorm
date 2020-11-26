@@ -12,3 +12,9 @@ H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.As
 H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csproj.CopyComplete
 H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.dll
 H:\dotnetcore\HTOrm.Framework\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.pdb
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csprojAssemblyReference.cache
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.AssemblyInfoInputs.cache
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.AssemblyInfo.cs
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.dll
+D:\个人\code\htorm\HT.IService\obj\Debug\netcoreapp3.1\HT.IService.pdb

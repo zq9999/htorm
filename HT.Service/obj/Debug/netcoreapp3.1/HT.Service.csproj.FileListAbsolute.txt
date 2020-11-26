@@ -16,3 +16,9 @@ H:\dotnetcore\HTOrm.Framework\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.Asse
 H:\dotnetcore\HTOrm.Framework\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.csproj.CopyComplete
 H:\dotnetcore\HTOrm.Framework\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.dll
 H:\dotnetcore\HTOrm.Framework\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.pdb
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.csprojAssemblyReference.cache
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.AssemblyInfoInputs.cache
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.AssemblyInfo.cs
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.dll
+D:\个人\code\htorm\HT.Service\obj\Debug\netcoreapp3.1\HT.Service.pdb

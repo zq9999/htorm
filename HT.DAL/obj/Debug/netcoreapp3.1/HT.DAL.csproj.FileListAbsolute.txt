@@ -17,3 +17,9 @@ H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.dll
 H:\dotnetcore\HTOrm.Framework\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.pdb
 H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Model.dll
 H:\dotnetcore\HTOrm.Framework\HT.DAL\bin\Debug\netcoreapp3.1\HT.Model.pdb
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csprojAssemblyReference.cache
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfoInputs.cache
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.AssemblyInfo.cs
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.dll
+D:\个人\code\htorm\HT.DAL\obj\Debug\netcoreapp3.1\HT.DAL.pdb
