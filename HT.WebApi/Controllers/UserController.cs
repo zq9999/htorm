@@ -8,17 +8,16 @@ using Microsoft.Extensions.Logging;
 
 namespace HT.WebApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[action]")]
     [ApiController]
     public class UserController : ControllerBase
     {
-        //IUserService _iUserService;
-        //ILogger<UserController> _logger;
-        //public UserController(IUserService iUserService, ILogger<UserController> logger)
-        //{
-        //    _iUserService = iUserService;
-        //    _logger = logger;
-        //}
+        
+        ILogger<UserController> _logger;
+        public UserController( ILogger<UserController> logger)
+        { 
+            _logger = logger;
+        }
         //[Route("GetUsers")]
         //[HttpGet]
         //public List<User> GetUsers() {
@@ -26,8 +25,10 @@ namespace HT.WebApi.Controllers
         //    var list=  _iUserService.GetUsers();
         //    return list;
         //}
-
+        [HttpGet]
         public List<string> Index() {
+            base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
+            _logger.LogInformation($"{DateTime.Now} index");
             return new List<string>() {"jack","wade","jim" };
         }
     }

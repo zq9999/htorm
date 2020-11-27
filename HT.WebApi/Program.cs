@@ -18,6 +18,13 @@ namespace HT.WebApi
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
+            .ConfigureLogging((context, LoggingBuilder) =>
+            {
+                LoggingBuilder.AddFilter("System", LogLevel.Warning); // 忽略系统的其他日志
+                LoggingBuilder.AddFilter("Microsoft", LogLevel.Warning);//不加前两行比较好
+                LoggingBuilder.AddLog4Net();
+            })
+
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
