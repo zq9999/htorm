@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT.IService", "..\HT.IServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT.Service", "..\HT.Service\HT.Service.csproj", "{4856E671-363F-4CA3-9FBD-D96D85AF9D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ht.MicroServiceGateway", "..\Ht.MicroServiceGateway\Ht.MicroServiceGateway.csproj", "{4272CBB4-756E-49A7-B17A-BFAB882B4520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ht.MicroServiceGateway", "..\Ht.MicroServiceGateway\Ht.MicroServiceGateway.csproj", "{4272CBB4-756E-49A7-B17A-BFAB882B4520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ht.AuthenticationCenter", "..\Ht.AuthenticationCenter\Ht.AuthenticationCenter.csproj", "{7B5980CC-9A55-4EDE-B2BD-251B52BAA30B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4272CBB4-756E-49A7-B17A-BFAB882B4520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4272CBB4-756E-49A7-B17A-BFAB882B4520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4272CBB4-756E-49A7-B17A-BFAB882B4520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5980CC-9A55-4EDE-B2BD-251B52BAA30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5980CC-9A55-4EDE-B2BD-251B52BAA30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5980CC-9A55-4EDE-B2BD-251B52BAA30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5980CC-9A55-4EDE-B2BD-251B52BAA30B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

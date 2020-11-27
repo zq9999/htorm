@@ -132,8 +132,6 @@ H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj
 H:\dotnetcore\HTOrm.Framework\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.AssemblyInfoInputs.cache
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.AssemblyInfo.cs
-D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CoreCompileInputs.cache
-D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.dll
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.pdb
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -239,3 +237,4 @@ D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Prim
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csprojAssemblyReference.cache
