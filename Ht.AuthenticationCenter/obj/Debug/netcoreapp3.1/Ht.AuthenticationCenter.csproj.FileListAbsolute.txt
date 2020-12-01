@@ -1,0 +1,15 @@
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\appsettings.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.exe
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.AssemblyInfoInputs.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.AssemblyInfo.cs
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.RazorTargetAssemblyInfo.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\staticwebassets\Ht.AuthenticationCenter.StaticWebAssets.Manifest.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\staticwebassets\Ht.AuthenticationCenter.StaticWebAssets.xml
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.csprojAssemblyReference.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.csproj.CopyComplete
