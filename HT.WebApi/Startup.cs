@@ -53,6 +53,23 @@ namespace HT.WebApi
                 };
             });
             #endregion
+
+            
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AnyOrigin", builder =>
+                {
+                    builder.WithOrigins(
+                        "http://localhost:5000",
+                        "http://localhost:5001",
+                        "http://localhost:5002",
+                        "http://localhost:5003")
+                        .WithHeaders("Origin", "X-Requested-With", "Content-Type", "Accept", "x-token", "Authorization")
+                        .WithMethods("POST", "GET", "PUT", "OPTIONS", "DELETE");
+                    
+                });
+            });
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -69,9 +86,12 @@ namespace HT.WebApi
             app.UseAuthentication();//注意添加这一句，启用验证
             #endregion
 
+
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors("AnyOrigin");
 
             app.UseEndpoints(endpoints =>
             {

@@ -13,3 +13,14 @@ D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Microsoft.I
 D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.csprojAssemblyReference.cache
 D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.csproj.CopyComplete
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.deps.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.runtimeconfig.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.runtimeconfig.dev.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.pdb
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.MvcApplicationPartsAssemblyInfo.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.dll
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.pdb
+D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.genruntimeconfig.cache

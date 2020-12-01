@@ -47,8 +47,8 @@ namespace Ht.AuthenticationCenter.Utility
                 除了规定的字段外，可以包含其他任何 JSON 兼容的字段。
              * */
             var token = new JwtSecurityToken(
-                //issuer: _configuration["issuer"],
-                //audience: _configuration["audience"],
+                issuer: _configuration["issuer"],
+                audience: _configuration["audience"],
                 claims: claims,
                 expires: DateTime.Now.AddMinutes(5),//5分钟有效期
                 signingCredentials: creds);

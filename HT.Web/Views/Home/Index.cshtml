@@ -1,8 +1,103 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = " web-index";
 }
+<style type="text/css">
+    table {
+        width: 800px;
+    }
+</style>
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+
+    web-index
+
+<table border="1">
+    <tr>
+        <td>Ht.MicroServiceGateway</td>
+        <td>5000</td>
+    </tr>
+</table>
+<br />
+<table border="1">
+    <tr>
+        <td>Ht.AuthenticationCenter</td>
+        <td>5001</td>
+    </tr>
+    <tr>
+        <td>api/Authentication/Login</td>
+        <td>post name,password</td>
+    </tr>
+</table>
+<br />
+<table border="1">
+    <tr>
+        <td>HT.WebApi</td>
+        <td>5002</td>
+    </tr>
+    <tr>
+        <td>api/UserAuth/GetUsers</td>
+        <td>需要登陆</td>
+    </tr>
+    <tr>
+        <td>api/UserAuth/GetUsersByName?name=</td>
+        <td>匿名</td>
+    </tr>
+</table>
+<br />
+<table border="1">
+    <tr>
+        <td>HT.Web </td>
+        <td>5003</td>
+    </tr>
+</table>
+<br />
+  
+<textarea id="pheader" cols="100" rows="10">
+
+</textarea> 
+ 
+<button onclick="GetFun()">请求</button>
+ 
+<script type="text/javascript">
+   
+    function GetFun() {
+
+        jQuery.support.cors = true;   
+        var token = $("#pheader").val();
+        var url = $("#urlSelect").val();
+        $.ajax({
+            url: "http://localhost:5002/api/UserAuth/GetUsers" ,
+            type: "get", 
+            dataType: 'json', 
+            beforeSend: function (XHR) { 
+                   //发送ajax请求之前向http的head里面加入验证信息  
+                XHR.setRequestHeader('Access-Control-Allow-Origin', "*");
+                XHR.setRequestHeader('Access-Control-Allow-Headers', "Authorization");
+                XHR.setRequestHeader('Authorization', token);
+             },
+            success: function (data) {
+                alert(data)
+                console.log(data);
+            }
+        })  
+    }
+
+
+
+    function SubmitFun() {
+        $.post("http://localhost:5001/api/Authentication/Login", { name: "zq", password: "123321" }, function (data) {
+            alert(data);
+            console.log(data);
+        }, "text")
+    }
+
+    function GetUsersByName() {
+        $.getJSON("http://localhost:5002/api/UserAuth/GetUsersByName?name=zq", function (data) {
+            alert(data);
+            console.log(data);
+        })
+    }
+    /*
+     1.登录sso
+     2.请求url
+     */
+</script>

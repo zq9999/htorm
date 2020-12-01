@@ -20,8 +20,9 @@ namespace Ht.AuthenticationCenter.Controllers
         }
         [Route("Login")]
         [HttpPost]
-        public string Login(string name, string password)
+        public string Login([FromForm]string name, [FromForm] string password)
         {
+            base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
             if ("zq".Equals(name) && "123321".Equals(password))//应该数据库
             {
                 string token = this._iJWTService.GetToken(name);
