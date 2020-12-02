@@ -61,19 +61,13 @@
    
     function GetFun() {
 
-        jQuery.support.cors = true;   
-        var token = $("#pheader").val();
-        var url = $("#urlSelect").val();
+       
+        var token = $("#pheader").val(); 
         $.ajax({
             url: "http://localhost:5002/api/UserAuth/GetUsers" ,
             type: "get", 
             dataType: 'json', 
-            beforeSend: function (XHR) { 
-                   //发送ajax请求之前向http的head里面加入验证信息  
-                XHR.setRequestHeader('Access-Control-Allow-Origin', "*");
-                XHR.setRequestHeader('Access-Control-Allow-Headers', "Authorization");
-                XHR.setRequestHeader('Authorization', token);
-             },
+            headers: { "authorization":"Bearer "+ token}, 
             success: function (data) {
                 alert(data)
                 console.log(data);
@@ -83,19 +77,19 @@
 
 
 
-    function SubmitFun() {
-        $.post("http://localhost:5001/api/Authentication/Login", { name: "zq", password: "123321" }, function (data) {
-            alert(data);
-            console.log(data);
-        }, "text")
-    }
+    //function SubmitFun() {
+    //    $.post("http://localhost:5001/api/Authentication/Login", { name: "zq", password: "123321" }, function (data) {
+    //        alert(data);
+    //        console.log(data);
+    //    }, "text")
+    //}
 
-    function GetUsersByName() {
-        $.getJSON("http://localhost:5002/api/UserAuth/GetUsersByName?name=zq", function (data) {
-            alert(data);
-            console.log(data);
-        })
-    }
+    //function GetUsersByName() {
+    //    $.getJSON("http://localhost:5002/api/UserAuth/GetUsersByName?name=zq", function (data) {
+    //        alert(data);
+    //        console.log(data);
+    //    })
+    //}
     /*
      1.登录sso
      2.请求url
