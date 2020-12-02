@@ -22,7 +22,7 @@ namespace HT.WebApi.Controllers
         [HttpGet]
         [Route("GetUsers")] 
         public List<string> GetUsers() {
-            base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
+            //base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
 
             var nickName = HttpContext.AuthenticateAsync().Result.Principal.Claims.FirstOrDefault(c => c.Type.Equals("NickName"))?.Value;
             Console.WriteLine($"This is GetUserByName 校验 {nickName}");
@@ -38,7 +38,7 @@ namespace HT.WebApi.Controllers
         [Microsoft.AspNetCore.Authorization.AllowAnonymous]
         public dynamic  GetUsersByName(string name)
         {
-            base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
+            //base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
             var data=new { name=name,age=17,birthday=DateTime.Now.AddYears(-30) };
              return data;
         }
