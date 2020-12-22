@@ -189,3 +189,13 @@ D:\个人\code\htorm\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1
 D:\个人\code\htorm\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.dll
 D:\个人\code\htorm\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.pdb
 D:\个人\code\htorm\NUnitTestProject1\obj\Debug\netcoreapp3.1\NUnitTestProject1.genruntimeconfig.cache
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.exe
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.dll
+D:\个人\code\htorm\NUnitTestProject1\bin\Debug\netcoreapp3.1\Ht.AuthenticationCenter.pdb

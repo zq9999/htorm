@@ -26,7 +26,8 @@ namespace Ht.AuthenticationCenter
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IJWTService, JWTService>();
+            //services.AddScoped<IJWTService, JWTHSService>();
+            services.AddScoped<IJWTService, JWTRSService>();
             services.AddControllers();
         }
 
@@ -37,7 +38,7 @@ namespace Ht.AuthenticationCenter
             {
                 app.UseDeveloperExceptionPage();
             }
-
+             
             app.UseHttpsRedirection();
 
             app.UseRouting();

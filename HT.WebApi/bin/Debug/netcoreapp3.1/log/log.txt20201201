@@ -1,0 +1,72 @@
+2020-12-01 15:39:59,108 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 15:39:59,132 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 15:39:59,148 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 15:39:59,157 [9] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 15:41:01,901 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 15:41:01,918 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 15:41:01,926 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 15:41:01,944 [9] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:00:17,043 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:00:17,062 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:00:17,071 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:00:17,094 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:23:08,034 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:23:08,053 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:23:08,061 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:23:08,081 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:25:12,848 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:25:12,866 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:25:12,877 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:25:12,895 [9] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:37:37,314 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:37:37,334 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:37:37,343 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:37:37,363 [11] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:40:31,719 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:40:31,738 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:40:31,746 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:40:31,769 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 16:41:58,187 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 16:41:58,207 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 16:41:58,217 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 16:41:58,252 [11] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 17:02:17,343 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 17:02:17,379 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 17:02:17,392 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 17:02:17,442 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 17:25:01,128 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 17:25:01,157 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 17:25:01,168 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 17:25:01,195 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 17:31:05,289 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 17:31:05,315 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 17:31:05,327 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 17:31:05,360 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 18:13:03,317 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 18:13:03,341 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 18:13:03,350 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 18:13:03,381 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 18:17:24,922 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 18:17:24,951 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 18:17:24,968 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 18:17:25,009 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 19:24:18,733 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 19:24:18,759 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 19:24:18,769 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 19:24:18,801 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 19:36:10,652 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 19:36:10,682 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 19:36:10,692 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 19:36:10,733 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 19:48:23,418 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 19:48:23,450 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 19:48:23,461 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 19:48:23,503 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 19:53:37,392 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 19:53:37,417 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 19:53:37,428 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 19:53:37,462 [9] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-01 19:54:11,209 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-01 19:54:11,233 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-01 19:54:11,243 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-01 19:54:11,270 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.

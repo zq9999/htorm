@@ -11,7 +11,6 @@ D:\个人\code\htorm\Ht.MicroServiceGateway\bin\Debug\netcoreapp3.1\Ht.MicroServ
 D:\个人\code\htorm\Ht.MicroServiceGateway\bin\Debug\netcoreapp3.1\Ht.MicroServiceGateway.runtimeconfig.dev.json
 D:\个人\code\htorm\Ht.MicroServiceGateway\bin\Debug\netcoreapp3.1\Ht.MicroServiceGateway.dll
 D:\个人\code\htorm\Ht.MicroServiceGateway\bin\Debug\netcoreapp3.1\Ht.MicroServiceGateway.pdb
-D:\个人\code\htorm\Ht.MicroServiceGateway\obj\Debug\netcoreapp3.1\Ht.MicroServiceGateway.csprojAssemblyReference.cache
 D:\个人\code\htorm\Ht.MicroServiceGateway\obj\Debug\netcoreapp3.1\Ht.MicroServiceGateway.dll
 D:\个人\code\htorm\Ht.MicroServiceGateway\obj\Debug\netcoreapp3.1\Ht.MicroServiceGateway.pdb
 D:\个人\code\htorm\Ht.MicroServiceGateway\obj\Debug\netcoreapp3.1\Ht.MicroServiceGateway.genruntimeconfig.cache

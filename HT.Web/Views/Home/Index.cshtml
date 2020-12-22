@@ -61,7 +61,17 @@
    
     function GetFun() {
 
-       
+        //$.post("http://localhost:5001/api/Authentication/Login", { name: "zq", password: "123321" }, function (data) {
+        //    alert(data);
+        //    console.log(data);
+        //}, "text")
+
+
+        //$.getJSON("http://localhost:5002/api/UserAuth/GetUsersByName?name=zq", function (data) {
+        //    alert(data);
+        //    console.log(data);
+        //})
+
         var token = $("#pheader").val(); 
         $.ajax({
             url: "http://localhost:5002/api/UserAuth/GetUsers" ,

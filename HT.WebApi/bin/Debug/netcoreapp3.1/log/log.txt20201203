@@ -1,0 +1,29 @@
+2020-12-03 14:53:12,441 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-03 14:53:12,492 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-03 14:53:12,503 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-03 14:53:12,536 [5] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-03 14:59:51,405 [10] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 14:59:51 index
+2020-12-03 15:04:59,197 [4] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:04:59 index
+2020-12-03 15:05:01,792 [4] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:05:01 index
+2020-12-03 15:05:02,279 [18] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:05:02 index
+2020-12-03 15:05:02,487 [18] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:05:02 index
+2020-12-03 15:05:02,692 [16] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:05:02 index
+2020-12-03 15:09:39,730 [17] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:09:39 index
+2020-12-03 15:10:37,227 [20] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:10:37 index
+2020-12-03 15:11:14,183 [22] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:11:14 index
+2020-12-03 15:11:14,948 [17] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:11:14 index
+2020-12-03 15:11:15,157 [24] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:11:15 index
+2020-12-03 15:11:15,400 [24] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:11:15 index
+2020-12-03 15:11:15,581 [23] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:11:15 index
+2020-12-03 15:12:03,274 [16] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:12:03 index
+2020-12-03 15:16:46,110 [17] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:16:46 index
+2020-12-03 15:16:46,858 [21] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:16:46 index
+2020-12-03 15:16:47,239 [23] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:16:47 index
+2020-12-03 15:16:47,441 [17] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:16:47 index
+2020-12-03 15:17:06,042 [23] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:17:06 index
+2020-12-03 15:18:01,081 [20] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:18:01 index
+2020-12-03 15:18:01,832 [5] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:18:01 index
+2020-12-03 15:18:51,684 [22] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:18:51 index
+2020-12-03 15:18:52,142 [14] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:18:52 index
+2020-12-03 15:18:52,365 [10] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:18:52 index
+2020-12-03 15:19:16,166 [25] INFO  HT.WebApi.Controllers.UserController - 2020/12/3 15:19:16 index

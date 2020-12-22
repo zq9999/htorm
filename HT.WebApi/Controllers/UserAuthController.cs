@@ -24,7 +24,9 @@ namespace HT.WebApi.Controllers
         public List<string> GetUsers() {
             //base.HttpContext.Response.Headers.Add("Access-Control-Allow-Origin", "*");//允许跨域
 
-            var nickName = HttpContext.AuthenticateAsync().Result.Principal.Claims.FirstOrDefault(c => c.Type.Equals("NickName"))?.Value;
+           var nickName= base.HttpContext.User.Identities.First().Claims.FirstOrDefault(p => p.Type.Equals("NickName"))?.Value;
+
+             nickName = HttpContext.AuthenticateAsync().Result.Principal.Claims.FirstOrDefault(c => c.Type.Equals("NickName"))?.Value;
             Console.WriteLine($"This is GetUserByName 校验 {nickName}");
 
             var role = HttpContext.AuthenticateAsync().Result.Principal.Claims.FirstOrDefault(c => c.Type.Equals("name"))?.Value;

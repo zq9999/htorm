@@ -12,6 +12,7 @@ namespace HT.WebApi.Controllers
     public class HealthController : ControllerBase
     {
         [Route("api/Health/Index")]
+        [HttpGet]
         public ActionResult Index() {
             return Ok();
         }

@@ -24,3 +24,5 @@ D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.Authenti
 D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.dll
 D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.pdb
 D:\个人\code\htorm\Ht.AuthenticationCenter\obj\Debug\netcoreapp3.1\Ht.AuthenticationCenter.genruntimeconfig.cache
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\key.private.json
+D:\个人\code\htorm\Ht.AuthenticationCenter\bin\Debug\netcoreapp3.1\key.public.json

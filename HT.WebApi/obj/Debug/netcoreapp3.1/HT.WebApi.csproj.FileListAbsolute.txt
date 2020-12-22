@@ -245,5 +245,11 @@ D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.P
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.csproj.CoreCompileInputs.cache
+D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cs
 D:\个人\code\htorm\HT.WebApi\obj\Debug\netcoreapp3.1\HT.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1\key.public.json

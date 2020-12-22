@@ -1,0 +1,61 @@
+2020-12-04 09:43:39,785 [1] FATAL Microsoft.AspNetCore.Server.Kestrel - Unable to start Kestrel.
+System.Net.Sockets.SocketException (10013): 以一种访问权限不允许的方式做了一个访问套接字的尝试。
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.<>c__DisplayClass21_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.ListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.AnyIPListenOptions.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindAsync(IServerAddressesFeature addresses, KestrelServerOptions serverOptions, ILogger logger, Func`2 createBinding)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+2020-12-04 09:48:27,490 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:5678
+2020-12-04 09:48:27,501 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-04 09:48:27,504 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-12-04 09:48:27,507 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1
+2020-12-04 09:48:48,206 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-04 09:49:05,912 [12] INFO  HT.WebApi.Controllers.UserController - 2020/12/4 9:49:05 index
+2020-12-04 09:51:49,534 [22] INFO  HT.WebApi.Controllers.UserController - 2020/12/4 9:51:49 index
+2020-12-04 09:54:06,584 [42] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2020-12-04 09:54:57,209 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:5678
+2020-12-04 09:54:57,219 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-04 09:54:57,222 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-12-04 09:54:57,225 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1
+2020-12-04 09:54:58,613 [9] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-04 09:54:58,698 [9] INFO  HT.WebApi.Controllers.UserController - 2020/12/4 9:54:58 index
+2020-12-04 09:55:05,217 [14] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2020-12-04 09:55:39,751 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://[::]:5678
+2020-12-04 09:55:39,761 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-04 09:55:39,765 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2020-12-04 09:55:39,771 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi\bin\Debug\netcoreapp3.1
+2020-12-04 09:55:40,889 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-04 09:55:40,957 [4] INFO  HT.WebApi.Controllers.UserController - 2020/12/4 9:55:40 index
+2020-12-04 09:55:48,401 [14] INFO  Microsoft.Hosting.Lifetime - Application is shutting down...
+2020-12-04 10:20:29,240 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-04 10:20:29,268 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-04 10:20:29,279 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-04 10:20:29,307 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2020-12-04 10:20:47,608 [14] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - HT.WebApi.Controllers.HealthController.Index (HT.WebApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-04 10:23:34,649 [22] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - HT.WebApi.Controllers.HealthController.Index (HT.WebApi). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-12-04 10:24:41,273 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2020-12-04 10:24:41,304 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2020-12-04 10:24:41,314 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\个人\code\htorm\HT.WebApi
+2020-12-04 10:24:41,342 [10] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.

@@ -108,3 +108,10 @@ D:\个人\code\htorm\HT.WebApi\obj\Release\netcoreapp3.1\staticwebassets\HT.WebA
 D:\个人\code\htorm\HT.WebApi\obj\Release\netcoreapp3.1\HT.WebApi.dll
 D:\个人\code\htorm\HT.WebApi\obj\Release\netcoreapp3.1\HT.WebApi.pdb
 D:\个人\code\htorm\HT.WebApi\obj\Release\netcoreapp3.1\HT.WebApi.genruntimeconfig.cache
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\个人\code\htorm\HT.WebApi\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
